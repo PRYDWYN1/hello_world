@@ -1,2 +1,2 @@
-# hello_world
-hello_world
+I am Joshua Crook
+I like X box not playstation
